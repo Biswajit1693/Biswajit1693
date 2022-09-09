@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning postgresql
 - 💞️ I’m looking to collaborate on projects related to the field and learn from it.I am a beginner into coding and sql but knows the basic & intermediate sql.Want to learn coding.So lets connect and learn together.
 - 📫 How to reach me (https://www.linkedin.com/in/biswajitpatnaik93/)
--
+
 
 <!---
 Biswajit1693/Biswajit1693 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
