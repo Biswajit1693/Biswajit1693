@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biswajit1693
 - 👀 I’m interested in data science & coding for development
-- 🌱 I’m currently learning postgresql
+- 🌱 I’m currently learning & upskilling on postgresql & python for development
 - 💞️ I’m looking to collaborate on projects related to the field and learn from it.I am a beginner into coding and sql but knows the basic & intermediate sql.Want to learn coding.So lets connect and learn together.
 - Open to work for free and learn
 - 📫 How to reach me (https://www.linkedin.com/in/biswajitpatnaik93/)
