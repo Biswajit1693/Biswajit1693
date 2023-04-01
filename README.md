@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Biswajit
 - 👀 I’m interested in clouds and devops
-- Currently learning cloud fundamentals and linux with devops principle
+- 🌱 Currently learning cloud fundamentals and linux with devops principle
 - 🌱 I’m currently learning & upskilling on postgresql & python for development
 - 💞️ I’m looking to collaborate on projects related to the field and learn from it.So lets connect and learn together.
 - Open to work for free and learn
